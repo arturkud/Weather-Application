@@ -2,7 +2,7 @@ const api = {
   // Link
   endpoint: "https://api.openweathermap.org/data/2.5/",
   // API Key
-  key: "2d6b0b90e0da70142b403c37e5f933eb"
+  key: ""
 };
 
 const input = document.querySelector("#input");
